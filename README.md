@@ -6,4 +6,4 @@
 * You can consult the exercises in the following [link](http://aris.me/contents/teaching/data-mining-ds-2021/homeworks/homework1.pdf).
 
 > Pdf File
-* In the _.pdf_ file you can find the result of the submission of the exercises on Hackerrank.
+* In the _Stamps_ folder there is the _.pdf_ file with the result of the submission of the exercises on Hackerrank.
